@@ -17,7 +17,7 @@ const User = require("./models/User")
 
 mongoose.Promise = global.Promise;
 
-mongoose.connect("mongodb+srv://nikunj:mongo123@cluster0.rf2xhnp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0") 
+mongoose.connect("mongodb+srv://mongoSeries:Mongo123@cluster0.u9aydjs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0") 
     .then(() => {
         console.log("datbase connected")
     }, error => {
