@@ -1,8 +1,6 @@
-# Final project of Honors Full Stack -1. 
-Shopping app made from MERN Stack.
-# 
-#
- PS: Admin Credentials  
-#
+MONGO DB FINAL PROJECT (MERN STACK)
+SHOPPING APP
+
+PS: Admin Credentials  
 Email : admin@gmail.com
 Password : admin123
